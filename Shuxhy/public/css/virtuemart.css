@@ -1,0 +1,115 @@
+.product-container {
+   list-style: none;
+    margin: 20px 0; 
+   padding: 20px;
+}
+.product-container .product-price {
+    font-size: 18px;
+    line-height: 37px!important;
+    font-weight: 600;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.vm-product-details-container .product-price {
+    text-align: left;
+}
+.product-container input,
+.product-container span.addtocart-button {
+    border-radius: 0!important;
+}
+#sp-page-builder input,
+.productdetails .chzn-container-single .chzn-single {
+    border-radius: 0!important;
+}
+.productdetails li .addtocart-button .addtocart-button {
+    -webkit-transition: 0.7s ease-in-out;
+    -moz-transition: 0.7s ease-in-out;
+    -ms-transition: 0.7s ease-in-out;
+    -o-transition: 0.7s ease-in-out;
+    transition: 0.7s ease-in-out;
+}
+.productdetails li:hover .addtocart-button .addtocart-button {
+    -webkit-transform: rotateX(360deg);
+    -moz-transform: rotateX(360deg);
+    -ms-transform: rotateX(360deg);
+    -o-transform: rotateX(360deg);
+    transform: rotateX(360deg);
+}
+.virtuemart_search .inputbox {
+    display: inline;
+}
+.category-view {
+    margin-top:40px;
+}
+.vmgroup .addtocart-bar {
+  margin:0px!important;
+}
+.category-view .category h2 a {
+    display: inherit;
+    text-align: center;
+}
+.category-view .row .category .spacer h2 a img {
+  margin: 0 auto;
+}
+.productdetails div.clear {
+  	margin-top: 20px;
+}
+.category-view > .row,
+.latest-view > .row,
+.featured-view > .row,
+.topten-view > .row {
+    flex-wrap: wrap!important;
+}
+.browseProductImage {
+    max-height: 100%;
+    max-width: 100%;
+}
+.product-container { 
+  border:1px solid #efefef;
+  margin-right: 0.5%;
+}
+.vmgroup .product-container:nth-child(3n) {
+  margin-right:0;
+}
+.browseCategoryImage {
+  max-height: 100%!important;
+  width: 100%;
+}
+#cart-view {
+  padding-bottom:50px;
+}
+div.product {
+ width: 33%;
+}
+.latest-view h4,
+.featured-view h4,
+.topten-view h4{
+ font-size: 26px;
+ font-weight: bold;
+}
+div.vm-details-button {
+ padding-bottom: 20px;
+ padding-top: 20px;
+}
+.category-view .category h2 a {
+ font-size: 30px;
+}
+div.category.floatleft.width25 {
+  width: 24%;
+}
+@media (max-width: 767px) {
+div.category.floatleft.width25 {
+	width: 100%;
+}
+.latest-view h4, .featured-view h4, .topten-view h4 {
+	padding-left: 30px;
+}
+  .productdetails-view .spacer-buy-area {
+		padding-left: 0;
+  }
+   .vm-product-details-container,
+   		div.vm-product-media-container {
+		width: 100%;
+   }
+}

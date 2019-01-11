@@ -1,0 +1,191 @@
+a {
+  color: #48cfc7;
+}
+a:hover {
+  color: #0e9cd1;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #333;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #48cfc7;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #48cfc7;
+}
+#offcanvas-toggler >i {
+  color: #333;
+}
+#offcanvas-toggler >i:hover {
+  color: #48cfc7;
+}
+.projects-filter a.selected, .projects-filter a.selected:hover,
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #48cfc7;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #48cfc7;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #48cfc7;
+}
+.sp-page-title {
+  background: #48cfc7;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #48cfc7;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #48cfc7;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #48cfc7;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #48cfc7;
+}
+.search .btn-toolbar button {
+  background: #48cfc7;
+}
+.post-format {
+  background: #48cfc7;
+}
+.voting-symbol span.star.active:before {
+  color: #48cfc7;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #48cfc7;
+}
+blockquote {
+  border-color: #48cfc7;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #48cfc7;
+}
+#sp-footer {
+  background: #48cfc7;
+}
+.sp-comingsoon body {
+  background-color: #48cfc7;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #48cfc7;
+  background-color: #48cfc7;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #48cfc7;
+  background-color: #48cfc7;
+}
+#et-text1,
+.et-title h6,
+.et-slider .tp-caption:hover a,
+.et-feature-item:hover i,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover button,
+.et-team-item .qx-person-img:before {
+  background: #48cfc7;
+}
+.tp-caption.excerpt_2, .excerpt_2,
+.et-intro-item i,
+.et-feature-item h4,
+.et-table-item h3,
+.et-table-item .table-price .price,
+.et-table-item button:hover a,
+.et-testimonial p.qx-designation,
+.et-testimonial button,
+.et-team-item h4 {
+  color: #48cfc7; 
+}
+.et-feature-item:hover i,
+span.addtocart-button input.addtocart-button,
+.vm-button-correct,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover,
+.et-slider .tp-caption:hover a,
+.et-table-item button,
+.et-subscribe-content table .button:hover {
+  border-color: #48cfc7!important;
+}
+/* Important */
+.et-services-item:hover i,
+.et-title-general h3,
+.et-services-item:hover h4,
+.et-action-button:hover,
+.et-counter-item i,
+.et-about-item b,
+.et-title-service b,
+.et-enroll-item i,
+#et-service .et-service-item i,
+.et-about-item .qx-btn-default {
+  color: #48cfc7!important; 
+}
+.et-contact #sp-quickcontact-form .button:hover,
+#et-service-sub:hover,
+#et-why-item .collapsible-header,
+.et-courses-sub,
+.button-general,
+.et-title-why b,
+.et-subscribe-content table .button:hover {
+  background: #48cfc7!important;  
+}
+.et-contact-form button:hover,
+.qx-progress-bar,
+span.addtocart-button input.addtocart-button,
+.projects-filter a.selected,
+.projects-filter a:hover,
+.et-contact-form button,
+.button-general,
+.et-service-item:hover .circle,
+.vm-button-correct,
+#et-something-button,
+.et-sub-build-item:hover {  
+  background-color:#48cfc7!important;
+}
+.et-contact #sp-quickcontact-form .button:hover,
+.btn-primary,
+.et-about-item .qx-btn-default {
+  border:1px solid #48cfc7!important; 
+}
+
+.et-about-item .qx-element-image:before {
+  border:7px solid #48cfc7;
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , rgba(72, 207, 199, 0.51) 0%, rgba(72, 207, 199, 0.51) 100%)!important;
+}
