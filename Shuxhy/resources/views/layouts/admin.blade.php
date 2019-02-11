@@ -142,13 +142,6 @@
              
             </li>
 
-            <li class="treeview">
-              <a href="{{ url('almacen/factura')}}">
-                <i class="fa fa-shopping-cart"></i>
-                <span>Facturación</span>
-                 <i class="fa fa-angle-left pull-right"></i>
-              </a>
-              </li>
 
                 <li class="treeview">
               <a href="{{ url('almacen/suplidor')}}">
